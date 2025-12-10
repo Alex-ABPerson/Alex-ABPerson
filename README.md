@@ -1,4 +1,4 @@
-## Hey!!
+## Hi!!
 
 This account is in complete public shambles rn, 'cause I've been so busy working on private projects or live events (sound, video and stage lighting), but there's some neat old stuff knocking around!
 
