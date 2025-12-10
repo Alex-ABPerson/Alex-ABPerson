@@ -5,7 +5,7 @@ This account is in complete shambles right now. I've been too busy working on pr
 About _Me_?? The Obligatory Info™:
 
 - **Sonic Fan!** 🔵🦔
-  - Been in charge of Crush 40's live shows for years now.
+  - Been managing most recent Crush 40 live shows for a few years now.
 - **Recent Brony (MLP)!!** 🔵🟣🔴🟡🟠⚪🐴
   - You'll see me at a pony con one of these days, mark my words.
 - **C# / .NET Dev For Way Too Long**. 😂📈
