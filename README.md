@@ -1,6 +1,6 @@
 ## Hi!!
 
-This account is in complete public shambles rn, 'cause I've been so busy working on private projects or live events (sound, video and stage lighting), but there's some neat old stuff knocking around!
+This account is in complete shambles right now. I've been too busy working on private projects or live events (sound, video and stage lighting) lately, but there's some neat old stuff knocking around!
 
 About _Me_?? The Obligatory Info™:
 
