@@ -9,7 +9,9 @@ About _Me_?? The Obligatory Info™:
 - **Recent Brony (MLP)!!** 🔵🟣🔴🟡🟠⚪🐴
   - You'll see me at a pony con one of these days, mark my words.
 - **C# / .NET Dev For Way Too Long**. 😂📈
-  - I used to be known on multiple Discord communities as the go-to ".NET performance/internals guy".
+  - Used to be somewhat infamous on multiple Discord communities as the go-to ".NET performance/internals guy".
+  - [Used to engage a lot in a lot of discussions about .NET's internals](https://github.com/dotnet/runtime/issues/53593#issuecomment-940939320)
+  - [Contributed to .NET..... technically](https://github.com/dotnet/runtime/commit/2b55b103e1dfb7c0afcc8042fd154be345fb3744)
 - **Love-hate JS**: 📦
   - Expando Objects always make me feel **so, so** good. Until they don't.
 - **Love-hate Rust**: 🧇
