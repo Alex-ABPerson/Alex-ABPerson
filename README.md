@@ -14,6 +14,9 @@ About _Me_?? The Obligatory Info™:
   - Expando Objects always make me feel **so, so** good. Until they don't.
 - **Love-hate Rust**: 🧇
   - It's really cool, and has its place, but remains next to unusable for anything I ever want to do sadly :([^1]
+- **Love-hate C**: 🧇
+  - Love for its pure semantic simplicity (and it STILL [finds ways to surprise me](https://jorenar.com/blog/less-known-c#bit-fields)).
+  - Hate for header files (we've found >x10000 better ways decades ago), and I am forever gobsmacked we keep using them anyway.
 
 Links to stuff:
 
