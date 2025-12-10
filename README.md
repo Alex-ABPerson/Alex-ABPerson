@@ -16,12 +16,13 @@ About _Me_?? The Obligatory Info™:
   - It's really cool, and has its place, but remains next to unusable for anything I ever want to do sadly :([^1]
 - **Love-hate C**: 🧇
   - Love for its pure semantic simplicity (and it STILL [finds ways to surprise me](https://jorenar.com/blog/less-known-c#bit-fields)).
-  - Hate for header files (we've found >x10000 better ways decades ago), and I am forever gobsmacked we keep using them anyway.
+  - Despise for header files (we found >x1000 faster, tidier, manageable, portabler ways to do this **decades** ago), and I am forever in awe that as an industry we continue to use them _anyway_. Stop it!!
 
 Links to stuff:
 
 - Website - https://abco.live (It's not broken, it's just completely and utterly empty)
 - YouTube - https://www.youtube.com/@ABCo-ABMedia
 
-[^1]: I've written a bunch of things in Rust now. I know its rules, and have always felt I "got" what it's trying to do and _why_ it does things the way it does. But it's __**painfully**__ unergonomical and mentally taxxing (looking at you, generic constraints for callbacks), completely collapses the moment you utter the word async and it's all[^2] just to avoid an incremental GC (not even remotely that expensive for most things) or manual memory management (which other less aggressive languages like Zig already solve).
-[^2]: There _are_ non-memory correctness issues it "solves" in the process.... and that's what always excited me about it. But I'm really not sure they're worth all the pain.
+[^1]: I've written a bunch of things in Rust now. Like most, I _understand_ all of its core rules just fine[^2], and I really like what it's _tried_ to do. But, in the real world, making anything non-linear _under_ the rules is so mind-numbing, so __painfully__ unergonomical (looking at you, generic constraints for callbacks (`Fn`, `FnMut` and `FnOnce` traits)) and all completely collapses the moment you utter the word async (unless you are a `-> Pin<Box<dyn Future<Output = Result> + Send + '_>> + Send` sort of person, in which case I legit look up to you), that it's basically not worth the small correctness benefits you'll get outside of systems eng.
+
+[^2]: except unsafe semantics because they get so complicated they practically need a phd in the topic. maybe one day I'll bother to learn them too... maybe one day
